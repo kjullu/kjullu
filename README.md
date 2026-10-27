@@ -3,6 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/kjullu/kjullu/blob/snk-output/github-snake.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/kjullu/kjullu/blob/snk-output/github-snake-dark.svg">
 </picture>
+
 # Hello
 
 :) 👍
